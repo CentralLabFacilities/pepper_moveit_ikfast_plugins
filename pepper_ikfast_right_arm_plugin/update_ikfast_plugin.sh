@@ -1,0 +1,1 @@
+rosrun moveit_kinematics create_ikfast_moveit_plugin.py pepper right_arm pepper_ikfast_right_arm_plugin /home/llach/pepper_grasping/src/pepper_moveit_ikfast_plugins/pepper_ikfast_right_arm_plugin/src/pepper_right_arm_ikfast_solver.cpp
